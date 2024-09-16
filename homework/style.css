@@ -1,0 +1,28 @@
+html, body{
+    /* СЌС‚Рѕ РІРЅРµС€РЅРёР№ РѕС‚СЃС‚СѓРї  */
+   margin: 0px; 
+   /* СЌС‚Рѕ РІРЅСѓС‚СЂРµРЅРёР№ РѕС‚СЃС‚СѓРї */
+   padding:0px;
+}
+.nav{
+    border: 5px #c842e0 solid;
+    height: 150px;
+    width: 100%;
+    background: #e04542;
+}
+.link{
+    border: 5px #600370 solid;
+    height: 100px;
+    width: 70%;
+    background: #6a81ea;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.link2{
+    border: 5px #42e052 solid;
+    height: 50px;
+    width: 45%;
+    background: #ffe310;
+    margin-left: 250px;
+    margin-top: 20px;
+}
